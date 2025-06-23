@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Auto Image Fit",
+    "name": "Pic Fit",
     "version": "1.0",
     "description": "Automatically scale and center standalone images.",
     "content_scripts": [
