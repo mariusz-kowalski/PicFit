@@ -1,0 +1,1 @@
+cd src && zip --recurse-paths "../release/PicFit-ver-$(jq -r '.version' manifest.json).zip" ./*
